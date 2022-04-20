@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProjectIftah</string>
+    <string name="teknologi_informasi">Teknologi Informasi</string>
+    <string name="indragiri_hulu">Indragiri Hulu</string>
+    <string name="ttl_air_molek_25_mei_2001">TTL Air Molek, 25 Mei 2001</string>
+    <string name="hobi_futsal_dan_sepakbola">Hobi : Futsal dan Sepakbola</string>
+    <string name="nama_m_iftah_al_ulya_maolana">Nama : M.Iftah Al-Ulya Maolana</string>
+    <string name="nim_2010031805010">NIM : 2010031805010</string>
+    <string name="button_pindah">Button Pindah</string>
+    <string name="move_data">Move Data</string>
+    <string name="move_with_object">Move With Object</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="move_with_result">Move With Result</string>
+    <string name="biodata">Biodata</string>
+    <string name="result_from_activity">Result From Activity</string>
+    <string name="choose_number">Choose Number</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">choose</string>
+    <string name="ini_halaman_pindah">Ini Halaman Pindah</string>
+    <string name="prodi_teknologi_informasi">Prodi : Teknologi Informasi</string>
+</resources>
